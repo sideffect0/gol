@@ -1,1 +1,2 @@
-(println "Its Front")
+(defn cljsIsland []
+  (println "Its Front"))
