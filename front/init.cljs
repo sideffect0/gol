@@ -1,5 +1,5 @@
 (defn board [size]
   (for [i (range size)]
-    (println "Its Front")))
+    (.write js/document "Hell Yeah !")))
 
 (board 10)
